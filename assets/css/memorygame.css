@@ -1,0 +1,52 @@
+.main_cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    width: 100%;
+    max-width: 750px;
+    gap: 10px;
+    margin: 0 auto;
+    background-color: rgb(82, 82, 82);
+    
+}
+
+.card{
+    position: relative;
+    width: 100%;
+    border-radius: 10px;
+    aspect-ratio: 3/4;
+    background-color: black;
+    cursor: pointer;
+    
+    /* part of the code used as the basis of https://www.w3schools.com/cssref/css3_pr_transform-style.php */
+    transform-style: preserve-3d; 
+    transition: all 500ms ease;
+}
+
+.face {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-size: cover;
+    background-position: center;
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(255, 255, 255);
+    border-radius: 10px;
+   
+}
+
+.front {
+    background-image: url(../images/image01.webp); 
+    transform: rotateY(180deg';
+}
+
+.back {
+    background-image: url(../images/standartCard.jpg);
+    backface-visibility: hidden;
+}
+
+
+/* part of the code used as the basis of https://stackoverflow.com/questions/45119321/rotate-an-image-180-degrees-in-every-click-css-animation */
+.card:hover {
+    transform: rotateY(180deg);
+}
