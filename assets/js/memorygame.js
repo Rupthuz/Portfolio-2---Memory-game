@@ -4,16 +4,16 @@
 const main_cards = document.querySelector('.main_cards');
 
 const animals = [
-    'imagem01',
-    'imagem02',
-    'imagem03',
-    'imagem04',
-    'imagem05',
-    'imagem06',
-    'imagem07',
-    'imagem08',
-    'imagem09',
-    'imagem10',
+    '001',
+    '002',
+    '003',
+    '004',
+    '005',
+    '006',
+    '007',
+    '008',
+    '009',
+    '010',
 
 ];
 
