@@ -22,7 +22,7 @@ function addCard (animal) {
     const front = document.createElement('div');
     const back = document.createElement('div');
 
-    front.style.backgroundImage = `url('../images/${animal}.jpg')`;
+    front.style.backgroundImage = `url('../assets/images/${animal}.jpg')`;
 
     card.className = 'card';
     front.className = 'face front';
