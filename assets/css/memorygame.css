@@ -35,8 +35,7 @@
    
 }
 
-.front {
-    background-image: url(../images/image01.webp); 
+.front { 
     transform: rotateY(180deg);
 }
 

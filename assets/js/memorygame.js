@@ -3,7 +3,7 @@
 
 const main_cards = document.querySelector('.main_cards');
 
-const cards = [
+const animals = [
     'imagem01',
     'imagem02',
     'imagem03',
@@ -17,10 +17,12 @@ const cards = [
 
 ];
 
-function addCard () {
+function addCard (animal) {
     const card = document.createElement('div');
     const front = document.createElement('div');
     const back = document.createElement('div');
+
+    front.style.backgroundImage = `url('../images/${animal}.jpg')`;
 
     card.className = 'card';
     front.className = 'face front';
@@ -34,12 +36,11 @@ function addCard () {
 }
 
 const loadGame = () => {
-    cards.forEach((card) => {
- console.log(card);
+    animals.forEach((animal) => {
+ const card = addCard(animal);
     });
 }
 
-
 loadGame();
-addCard();
+
 
