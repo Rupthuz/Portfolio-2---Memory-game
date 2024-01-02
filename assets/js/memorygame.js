@@ -3,6 +3,7 @@
 
 const main_cards = document.querySelector('.main_cards');
 
+// images array cards //
 const animals = [
     '001',
     '002',
@@ -16,6 +17,13 @@ const animals = [
     '010',
 
 ];
+
+// part of the code used as the basis of https://dev.to/javascriptacademy/creating-a-memory-card-game-with-html-css-and-javascript-57g1 //
+
+// targeting and add click event to turn cards //
+const cardReveal = ({target}) => {
+    target.parentNode.classList.add('card-reveal');
+}
 
 function addCard (animal) {
     const card = document.createElement('div');
@@ -31,13 +39,19 @@ function addCard (animal) {
 
     card.appendChild(front);
     card.appendChild(back);
+    card.addEventListener('click', cardReveal);
 
     main_cards.appendChild(card);
 }
 
-const loadGame = () => {
-    animals.forEach((animal) => {
- const card = addCard(animal);
+
+// part of the code used as the basis of https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort //
+function loadGame() {
+
+   const doubleCards = [...animals, ...animals]
+   const sortCards = doubleCards.sort(() => Math.random() - 0.5);
+   sortCards.forEach(function(animal) {
+        const card = addCard(animal);
     });
 }
 

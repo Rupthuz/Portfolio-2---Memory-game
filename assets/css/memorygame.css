@@ -5,7 +5,10 @@
     max-width: 750px;
     gap: 10px;
     margin: 0 auto;
-    background-color: rgb(82, 82, 82);
+    background-color: rgb(192, 247, 96);
+    margin-top: 35px;
+    padding: 50px;
+    border-radius: 15px;
     
 }
 
@@ -13,7 +16,7 @@
     position: relative;
     width: 100%;
     border-radius: 10px;
-    aspect-ratio: 3/4;
+    aspect-ratio: 4/4;
     background-color: black;
     cursor: pointer;
     
@@ -46,6 +49,6 @@
 
 
 /* part of the code used as the basis of https://stackoverflow.com/questions/45119321/rotate-an-image-180-degrees-in-every-click-css-animation */
-.card:hover {
+.card-reveal {
     transform: rotateY(180deg);
 }
