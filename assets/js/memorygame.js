@@ -20,9 +20,27 @@ const animals = [
 
 // part of the code used as the basis of https://dev.to/javascriptacademy/creating-a-memory-card-game-with-html-css-and-javascript-57g1 //
 
+
+let cardOne = '';
+let cardTwo = '';
+
+
 // targeting and add click event to turn cards //
 const cardReveal = ({target}) => {
-    target.parentNode.classList.add('card-reveal');
+
+    if (target.parentNode.className.includes('card-reveal')) {
+        return;
+    }
+
+    if (cardOne === '') {
+        target.parentNode.classList.add('card-reveal');
+        cardOne = target.parentNode;
+    } else if (cardTwo === '') {
+        target.parentNode.classList.add('card-reveal');
+        cardTwo = target.parentNode;
+    }
+    
+    
 }
 
 function addCard (animal) {
