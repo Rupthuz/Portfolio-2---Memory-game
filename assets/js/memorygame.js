@@ -25,8 +25,26 @@ let cardOne = '';
 let cardTwo = '';
 
 
+const compareCards = () => {
+    const firstCard = cardOne.getAttribute('data-animals');
+    const secondCard = cardTwo.getAttribute('data-animals');
+
+    if (firstCard === secondCard) {
+
+    } else {
+        setTimeout(() => {
+            cardOne.classList.remove('card-reveal');
+            cardTwo.classList.remove('card-reveal');
+
+            cardOne = '';
+            cardTwo = '';
+        }, 400);
+    }
+}
+
+
 // targeting and add click event to turn cards //
-const cardReveal = ({target}) => {
+const cardReveal = ({ target }) => {
 
     if (target.parentNode.className.includes('card-reveal')) {
         return;
@@ -38,12 +56,15 @@ const cardReveal = ({target}) => {
     } else if (cardTwo === '') {
         target.parentNode.classList.add('card-reveal');
         cardTwo = target.parentNode;
+
+
+        compareCards();
     }
-    
-    
+
+
 }
 
-function addCard (animal) {
+function addCard(animal) {
     const card = document.createElement('div');
     const front = document.createElement('div');
     const back = document.createElement('div');
@@ -60,19 +81,19 @@ function addCard (animal) {
     card.addEventListener('click', cardReveal);
 
     main_cards.appendChild(card);
+    card.setAttribute('data-animals', animal);
 }
 
 
 // part of the code used as the basis of https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort //
 function loadGame() {
 
-   const doubleCards = [...animals, ...animals]
-   const sortCards = doubleCards.sort(() => Math.random() - 0.5);
-   sortCards.forEach(function(animal) {
+    const doubleCards = [...animals, ...animals]
+    const sortCards = doubleCards.sort(() => Math.random() - 0.5);
+    sortCards.forEach(function (animal) {
         const card = addCard(animal);
     });
 }
 
 loadGame();
-
 
