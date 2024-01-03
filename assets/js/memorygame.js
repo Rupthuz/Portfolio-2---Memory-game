@@ -24,6 +24,12 @@ const animals = [
 let cardOne = '';
 let cardTwo = '';
 
+function endGame() {
+    const end = document.querySelectorAll('.disabled');
+    if(end.length === 20) {
+        alert('YOU WIN !');
+    }
+}
 
 const compareCards = () => {
     const firstCard = cardOne.getAttribute('data-animals');
@@ -31,6 +37,13 @@ const compareCards = () => {
 
     if (firstCard === secondCard) {
 
+        cardOne.firstChild.classList.add('disabled');
+        cardTwo.firstChild.classList.add('disabled');
+
+        cardOne = '';
+        cardTwo = '';
+
+        endGame() ;
     } else {
         setTimeout(() => {
             cardOne.classList.remove('card-reveal');
