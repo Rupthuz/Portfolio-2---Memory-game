@@ -1,6 +1,5 @@
 
 // part of the code used as the basis of https://www.w3schools.com/jsref/met_document_createelement.asp //
-
 const main_cards = document.querySelector('.main_cards');
 
 // images array cards //
@@ -19,11 +18,11 @@ const animals = [
 ];
 
 // part of the code used as the basis of https://dev.to/javascriptacademy/creating-a-memory-card-game-with-html-css-and-javascript-57g1 //
-
-
 let cardOne = '';
 let cardTwo = '';
 
+
+// function to check if the game end //
 function endGame() {
     const end = document.querySelectorAll('.disabled');
     if(end.length === 20) {
@@ -31,6 +30,8 @@ function endGame() {
     }
 }
 
+
+// function to compare two cards //
 const compareCards = () => {
     const firstCard = cardOne.getAttribute('data-animals');
     const secondCard = cardTwo.getAttribute('data-animals');
@@ -77,6 +78,8 @@ const cardReveal = ({ target }) => {
 
 }
 
+
+// function to add array imgs //
 function addCard(animal) {
     const card = document.createElement('div');
     const front = document.createElement('div');
@@ -99,6 +102,7 @@ function addCard(animal) {
 
 
 // part of the code used as the basis of https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort //
+// function to load the game //
 function loadGame() {
 
     const doubleCards = [...animals, ...animals]
