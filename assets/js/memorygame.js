@@ -1,6 +1,9 @@
 
 // part of the code used as the basis of https://www.w3schools.com/jsref/met_document_createelement.asp //
 const main_cards = document.querySelector('.main_cards');
+const userName = document.querySelector('.user');
+const userTime = document.querySelector('.time');
+
 
 // images array cards //
 const animals = [
@@ -25,8 +28,11 @@ let cardTwo = '';
 // function to check if the game end //
 function endGame() {
     const end = document.querySelectorAll('.disabled');
-    if(end.length === 20) {
-        alert('YOU WIN !');
+
+    
+    if (end.length === 20) {
+        clearInterval(this.checkTime);
+        alert(`You Win: ${userName.innerHTML} ! Your Time is :${userTime.innerHTML} !`);
     }
 }
 
@@ -44,7 +50,7 @@ const compareCards = () => {
         cardOne = '';
         cardTwo = '';
 
-        endGame() ;
+        endGame();
     } else {
         setTimeout(() => {
             cardOne.classList.remove('card-reveal');
@@ -112,5 +118,19 @@ function loadGame() {
     });
 }
 
-loadGame();
 
+const startClock = () => {
+
+  this.checkTime =  setInterval(() => {
+const liveTime = Number(userTime.innerHTML);
+userTime.innerHTML = liveTime + 1;
+    },1000);
+}
+
+window.onload = () => {
+    const getName = localStorage.getItem('name');
+    userName.innerHTML = getName;
+    startClock();
+    loadGame();
+    
+}

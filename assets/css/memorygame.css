@@ -1,3 +1,40 @@
+main {
+    display: flex;
+    flex-direction: column;
+   /* background-image: url('../images/bg.jpg');*/
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 95vh;
+    align-items: center;
+    padding: 20px 20px 0 20px;
+    color: white;
+    justify-content: center;
+    background-color: green;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+main span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+footer {
+    background-color: orange;
+    width: 100%;
+    height: 5vh;
+}
+
 .main_cards {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
@@ -5,10 +42,7 @@
     max-width: 750px;
     gap: 10px;
     margin: 0 auto;
-    background: url('../images/gameboard.jpg');
     background-size: cover;
-    margin-top: 35px;
-    padding: 65px;
     border-radius: 15px;
     
 }
@@ -23,7 +57,7 @@
     
     /* part of the code used as the basis of https://www.w3schools.com/cssref/css3_pr_transform-style.php */
     transform-style: preserve-3d; 
-    transition: all 500ms ease;
+    transition: all 500ms ease; 
 }
 
 .face {
@@ -44,7 +78,7 @@
 }
 
 .back {
-    background-image: url(../images/stantardcard.jpg);
+    background-image: url(../images/backCards.jpg);
     background-size: cover;
     backface-visibility: hidden;
 }
