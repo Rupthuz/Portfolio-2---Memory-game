@@ -115,7 +115,7 @@ header {
             margin: 0 auto;
             background-size: cover;
             border-radius: 15px;
-            height: 70%;
+            height: 100%;
         }
     }
 
@@ -138,6 +138,6 @@ header {
                 margin: 0 auto;
                 background-size: cover;
                 border-radius: 15px;
-                height: 70%;
+                height: 100%;
             }
         }
