@@ -47,8 +47,8 @@ The game page comprises a total of 20 cards, each strategically adorned with ima
 # Future Implementations:
 The ongoing enhancement of the website, encompassing the incorporation of additional pages and the refinement of responsiveness, will require additional time and expertise.
 
-[ ] Creation of a Player Ranking:
+- [ ] Creation of a Player Ranking:
 Consideration is being given to the establishment of a player ranking system, aimed at recognizing and showcasing the achievements and skills of participants.
 
-[ ] Introduction of More Challenging Levels:
+- [ ] Introduction of More Challenging Levels:
 Exploration is underway for the introduction of more difficult levels within the game, providing seasoned players with an enhanced and progressively challenging gaming experience.
