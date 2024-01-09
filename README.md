@@ -34,3 +34,22 @@ Continuously train my memory capacity to enhance my daily logical reasoning.
 ## Wireframes:
 ### Login Page:
 ### Game Page:
+
+# Features
+
+## Login Page
+Subsequent to the display of the website logo, the login page affords users the capability to establish their player name, concurrently presenting an opportunity to gain a comprehensive understanding of the game rules.
+
+## Game Page
+The game page comprises a total of 20 cards, each strategically adorned with images of selected animals. This deliberate choice is intended to facilitate easy memorization upon flipping, thus directing the user's experience towards the singular objective of identifying the corresponding pair positions.
+
+
+# Future Implementations:
+
+The ongoing enhancement of the website, encompassing the incorporation of additional pages and the refinement of responsiveness, will require additional time and expertise.
+
+## Creation of a Player Ranking:
+Consideration is being given to the establishment of a player ranking system, aimed at recognizing and showcasing the achievements and skills of participants.
+
+## Introduction of More Challenging Levels:
+Exploration is underway for the introduction of more difficult levels within the game, providing seasoned players with an enhanced and progressively challenging gaming experience.
