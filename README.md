@@ -1,7 +1,7 @@
 # Languages Used
-**CSS3**
-**HTML5**
-**JavaScript**
+**CSS3
+HTML5
+JavaScript**
 
 # User Experience (UX)
 
