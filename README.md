@@ -25,3 +25,8 @@ I want to try to improve my time and memory capacity.
 
 ### As a Frequent User
 Continuously train my memory capacity to enhance my daily logical reasoning.
+
+# Design
+## Wireframes:
+###Login Page:
+###Game Page:
