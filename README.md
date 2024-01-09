@@ -70,3 +70,17 @@ To deploy the page on GitHub Pages from its corresponding repository, the follow
 - Choose the deployment folder, typically "/root".
 - Click "Save" and patiently await the completion of the deployment process.
 - The URL will be displayed above the "Source" section.
+
+# Run locally
+##Fork:
+
+- Login or Sign Up to GitHub.
+- Open the project repository.
+- Click the Fork button in the top right corner.
+
+##Clone:
+- Login or Sign Up to GitHub.
+- Open the project repository.
+- Click on the "Code" button, choose your preferred cloning method (HTTPS, SSH, or GitHub CLI), and copy the provided link.
+- Open your preferred code editor's terminal and navigate to the desired location for the cloned directory.
+- Type 'git clone' in the terminal, paste the link from step 3, and press enter.
