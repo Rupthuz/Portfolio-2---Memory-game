@@ -91,3 +91,10 @@ The website is crafted for seamless operation, ensuring users can effortlessly a
 
 
 # Functionality
+# Usability
+
+- Navigation underwent thorough testing, revealing that the menu is prominently displayed and remains consistent across all webpages. Users can intuitively locate resources on the site, ensuring a seamless experience.
+
+# Compatibility
+
+- The website has been meticulously optimized to render correctly across a spectrum of browsers and screen sizes. Rigorous compatibility testing was conducted on Chrome, Firefox, Safari, and Edge, ensuring a consistent and reliable performance across these platforms.
