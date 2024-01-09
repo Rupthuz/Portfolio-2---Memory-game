@@ -1,12 +1,12 @@
 # Languages Used
-**CSS3
-HTML5
-JavaScript**
+**CSS3.
+HTML5.
+JavaScript.**
 
 # User Experience (UX)
 
 # User stories
-Ideal Players for this Memory Game Community:
+Ideal Players for this Memory Game Community.
 Memory Improvement Seekers
 
 Individuals actively seeking to enhance their memory skills.
