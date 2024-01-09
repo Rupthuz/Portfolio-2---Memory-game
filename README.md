@@ -6,19 +6,12 @@ JavaScript.**
 # User Experience (UX)
 
 ## User stories
+
+
 ## Ideal Players for this Memory Game Community
-Memory Improvement Seekers
+Memory Improvement Seekers, Daily Cognitive Development Enthusiasts, and those Passionate about Card Games unite in our community!
 
-Individuals actively seeking to enhance their memory skills.
-Objective: Match players who are focused on improving their memory capacity.
-Card 2: Daily Cognitive Development Enthusiasts
-
-People in search of a daily exercise for personal cognitive development.
-Objective: Associate players who are dedicated to daily cognitive exercises for personal growth.
-Passionate about Card Games
-
-Enthusiasts who have a deep love for card games.
-Connect players who share a passion for various card games.
+Join a vibrant group of individuals actively seeking to enhance memory skills and engage in daily cognitive exercises for personal growth. Whether you're passionate about card games or looking to improve your memory capacity, our community is the perfect space to connect with like-minded players. Embrace the challenge of memory improvement, daily cognitive development, and shared enthusiasm for card games. Let's create a community where the pursuit of mental excellence is celebrated together!
 
 ## First Time Visitor Goals
 As a new player, I expect to easily understand the main purpose of the game and navigate without complications.
