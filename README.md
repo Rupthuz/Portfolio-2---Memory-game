@@ -72,15 +72,22 @@ To deploy the page on GitHub Pages from its corresponding repository, the follow
 - The URL will be displayed above the "Source" section.
 
 # Run locally
-## Fork:
+### Fork:
 
 - Login or Sign Up to GitHub.
 - Open the project repository.
 - Click the Fork button in the top right corner.
 
-## Clone:
+### Clone:
 - Login or Sign Up to GitHub.
 - Open the project repository.
 - Click on the "Code" button, choose your preferred cloning method (HTTPS, SSH, or GitHub CLI), and copy the provided link.
 - Open your preferred code editor's terminal and navigate to the desired location for the cloned directory.
 - Type 'git clone' in the terminal, paste the link from step 3, and press enter.
+
+#Testing
+The website is crafted for seamless operation, ensuring users can effortlessly accomplish their objectives. Chrome development tools were employed to identify and rectify any issues that arose during the development phase. Performance testing was systematically conducted, incorporating both manual assessments and automated methods.
+
+
+
+#Functionality
