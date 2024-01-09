@@ -8,7 +8,6 @@ JavaScript**
 # User stories
 
 # First Time Visitor Goals
-New Player Objectives:
 
 As a new player, I expect to easily understand the main purpose of the game and navigate without complications.
 I want to efficiently find card combinations during the game.
