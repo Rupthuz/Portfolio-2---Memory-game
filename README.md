@@ -28,5 +28,5 @@ Continuously train my memory capacity to enhance my daily logical reasoning.
 
 # Design
 ## Wireframes:
-###Login Page:
-###Game Page:
+### Login Page:
+### Game Page:
