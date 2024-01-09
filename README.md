@@ -85,9 +85,9 @@ To deploy the page on GitHub Pages from its corresponding repository, the follow
 - Open your preferred code editor's terminal and navigate to the desired location for the cloned directory.
 - Type 'git clone' in the terminal, paste the link from step 3, and press enter.
 
-#Testing
+# Testing
 The website is crafted for seamless operation, ensuring users can effortlessly accomplish their objectives. Chrome development tools were employed to identify and rectify any issues that arose during the development phase. Performance testing was systematically conducted, incorporating both manual assessments and automated methods.
 
 
 
-#Functionality
+# Functionality
