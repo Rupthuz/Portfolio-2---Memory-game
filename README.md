@@ -62,11 +62,11 @@ The website is currently hosted on GitHub Pages and is deployed directly from th
 
 To deploy the page on GitHub Pages from its corresponding repository, the following steps were undertaken:
 
-Login or Sign Up to GitHub.
-Navigate to the project repository.
-Access Settings from the top menu.
-Select "Pages" from the left-hand navigation panel.
-In the "Source" section, opt for the branch to deploy (Main for newer repositories, Master for older ones).
-Choose the deployment folder, typically "/root".
-Click "Save" and patiently await the completion of the deployment process.
-The URL will be displayed above the "Source" section.
+- Login or Sign Up to GitHub.
+- Navigate to the project repository.
+- Access Settings from the top menu.
+- Select "Pages" from the left-hand navigation panel.
+- In the "Source" section, opt for the branch to deploy (Main for newer repositories, Master for older ones).
+- Choose the deployment folder, typically "/root".
+- Click "Save" and patiently await the completion of the deployment process.
+- The URL will be displayed above the "Source" section.
