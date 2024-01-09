@@ -52,3 +52,21 @@ Consideration is being given to the establishment of a player ranking system, ai
 
 - [ ] Introduction of More Challenging Levels:
 Exploration is underway for the introduction of more difficult levels within the game, providing seasoned players with an enhanced and progressively challenging gaming experience.
+
+# Color Scheme
+# Typography
+
+# Deployment
+
+The website is currently hosted on GitHub Pages and is deployed directly from the master branch. Automatic updates to the deployed site are triggered with each new commit to the main branch. It is crucial to name the landing page as index.html for proper deployment on GitHub Pages.
+
+To deploy the page on GitHub Pages from its corresponding repository, the following steps were undertaken:
+
+Login or Sign Up to GitHub.
+Navigate to the project repository.
+Access Settings from the top menu.
+Select "Pages" from the left-hand navigation panel.
+In the "Source" section, opt for the branch to deploy (Main for newer repositories, Master for older ones).
+Choose the deployment folder, typically "/root".
+Click "Save" and patiently await the completion of the deployment process.
+The URL will be displayed above the "Source" section.
