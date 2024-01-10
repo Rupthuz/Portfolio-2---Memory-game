@@ -96,10 +96,17 @@ The website is crafted for seamless operation, ensuring users can effortlessly a
 
 
 
+# Functionality
+### Login Page
+![Captura de tela 2024-01-05 161027](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/6c598edf-35d1-4c4f-a032-4846e6ca8689)
+![Captura de tela 2024-01-05 161232](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/30eca327-b2ef-455a-b910-2fe19d6b9245)
 
+### Game Page 
+
+![Captura de tela 2024-01-05 160931](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/26d97ba2-f6de-47f0-b7fc-72eb9f6b94fc)
 
 # Usability
-### Functionality
+
 
 - Navigation underwent thorough testing, revealing that the menu is prominently displayed and remains consistent across all webpages. Users can intuitively locate resources on the site, ensuring a seamless experience.
 ![Captura de tela 2024-01-09 164335](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/dc0d878e-9416-4db3-911e-f96906358253)
