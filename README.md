@@ -57,6 +57,9 @@ Consideration is being given to the establishment of a player ranking system, ai
 Exploration is underway for the introduction of more difficult levels within the game, providing seasoned players with an enhanced and progressively challenging gaming experience.
 
 # Color Scheme
+
+![Wireframe - 1](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/adb53ad9-67e0-4b7f-9627-47a740cb041e)
+
 # Typography
 
 # Deployment
