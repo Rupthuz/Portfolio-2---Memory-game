@@ -58,7 +58,7 @@ Exploration is underway for the introduction of more difficult levels within the
 
 # Color Scheme
 
-![Wireframe - 1](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/adb53ad9-67e0-4b7f-9627-47a740cb041e)
+![Wireframe - 1 (1)](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/9b0eb6f8-876a-4918-b4b7-0bf819d3e383)
 
 # Typography
 
