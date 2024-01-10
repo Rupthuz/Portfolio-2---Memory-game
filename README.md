@@ -12,6 +12,7 @@ JavaScript <br />**
 Memory Improvement Seekers, Daily Cognitive Development Enthusiasts, and those Passionate about Card Games unite in our community!
 Join a vibrant group of individuals actively seeking to enhance memory skills and engage in daily cognitive exercises for personal growth. Whether you're passionate about card games or looking to improve your memory capacity, our community is the perfect space to connect with like-minded players. Embrace the challenge of memory improvement, daily cognitive development, and shared enthusiasm for card games. Let's create a community where the pursuit of mental excellence is celebrated together!
 
+![Desktop - 3 (1)](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/c8e3788f-314a-480c-ab36-b31170d2a7f6)
 
 
 ## User stories
