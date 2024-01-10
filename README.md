@@ -102,14 +102,8 @@ The website is crafted for seamless operation, ensuring users can effortlessly a
 ### Functionality
 
 - Navigation underwent thorough testing, revealing that the menu is prominently displayed and remains consistent across all webpages. Users can intuitively locate resources on the site, ensuring a seamless experience.
-![Captura de tela 2024-01-05 160931](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/8b30c1a9-f80f-40fa-b2e6-385ec56e2daf)
-![Captura de tela 2024-01-09 164335](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/87ec9771-844c-4615-8d42-5769c99d2584)
-![Captura de tela 2024-01-05 161232](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/d72ad8e2-4a84-4f24-a313-7226f6236339)
-
-
-![Captura de tela 2024-01-09 164335](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/87ec9771-844c-4615-8d42-5769c99d2584)
-![Captura de tela 2024-01-05 161232](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/d72ad8e2-4a84-4f24-a313-7226f6236339)
-![Captura de tela 2024-01-09 164427](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/29cf15af-909d-4571-989a-89b6d32b9f15)
+![Captura de tela 2024-01-09 164335](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/dc0d878e-9416-4db3-911e-f96906358253)
+![Captura de tela 2024-01-09 164427](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/111ea491-60d3-4fa2-836d-a2d10614aeda)
 
 
 # Compatibility
