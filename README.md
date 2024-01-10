@@ -3,10 +3,10 @@
 HTML5 <br />
 JavaScript <br />**
 
+
+
+
 # User Experience (UX)
-
-
-
 
 ### Ideal Players for this Memory Game Community
 Memory Improvement Seekers, Daily Cognitive Development Enthusiasts, and those Passionate about Card Games unite in our community!
@@ -40,9 +40,12 @@ Continuously train my memory capacity to enhance my daily logical reasoning.
 ## Login Page
 Subsequent to the display of the website logo, the login page affords users the capability to establish their player name, concurrently presenting an opportunity to gain a comprehensive understanding of the game rules.
 
+![Captura de tela 2024-01-09 164835](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/a14e7b40-8d23-4b2d-ba9c-1b3f9d158540)
+
 ## Game Page
 The game page comprises a total of 20 cards, each strategically adorned with images of selected animals. This deliberate choice is intended to facilitate easy memorization upon flipping, thus directing the user's experience towards the singular objective of identifying the corresponding pair positions.
 
+![Captura de tela 2024-01-09 164826](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/f1a37a64-6560-48a1-813a-9bfd2c620b85)
 
 # Future Implementations:
 The ongoing enhancement of the website, encompassing the incorporation of additional pages and the refinement of responsiveness, will require additional time and expertise.
