@@ -32,8 +32,14 @@ Continuously train my memory capacity to enhance my daily logical reasoning.
 
 # Design
 ## Wireframes:
+
 ### Login Page:
+![Desktop - 1](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/0a11124f-97d0-40ea-9766-5f8a5f162c67)
+
 ### Game Page:
+
+![Wireframe - 1 (2)](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/139ebed1-5724-41e5-94ac-8a4ed797be91)
+
 
 # Features
 
