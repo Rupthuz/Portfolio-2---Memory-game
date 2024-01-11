@@ -70,6 +70,8 @@ Exploration is underway for the introduction of more difficult levels within the
 ![Wireframe - 1 (1)](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/9b0eb6f8-876a-4918-b4b7-0bf819d3e383)
 
 # Typography
+'https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap
+'Kanit'
 
 # Deployment
 
@@ -130,7 +132,7 @@ The website is crafted for seamless operation, ensuring users can effortlessly a
 
 # Credits
 All images on the website are from Pexels, under a free license agreement.
-### The code implementation drew upon the following research avenues, encompassing solely their respective scopes and incorporating modifications deemed conducive to the project.
+The code implementation drew upon the following research avenues, encompassing solely their respective scopes and incorporating modifications deemed conducive to the project.
 - Project LoveMaths by (CODE INSTITUTE)
 - https://www.w3schools.com/cssref/css3_pr_transform-style.php.
 - https://stackoverflow.com/questions/45119321/rotate-an-image-180-degrees-in-every-click-css-animation
