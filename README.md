@@ -116,6 +116,7 @@ The website is crafted for seamless operation, ensuring users can effortlessly a
 ### Game Page 
 
 ![Captura de tela 2024-01-11 142600](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/c7bfa715-4b9a-4477-860c-88b69673be84)
+![Captura de tela 2024-01-11 152339](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/2d8d35e4-115c-4382-aaec-9cac4b3864b4)
 
 
 # Usability
