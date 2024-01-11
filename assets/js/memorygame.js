@@ -4,7 +4,6 @@ const main_cards = document.querySelector('.main_cards');
 const userName = document.querySelector('.user');
 const userTime = document.querySelector('.time');
 
-
 // images array cards //
 const animals = [
     '001',
@@ -17,25 +16,21 @@ const animals = [
     '008',
     '009',
     '010',
-
 ];
 
 // part of the code used as the basis of https://dev.to/javascriptacademy/creating-a-memory-card-game-with-html-css-and-javascript-57g1 //
 let cardOne = '';
 let cardTwo = '';
 
-
 // function to check if the game end //
 function endGame() {
     const end = document.querySelectorAll('.disabled');
 
-    
     if (end.length === 20) {
         clearInterval(this.checkTime);
         alert(`You Win: ${userName.innerHTML} ! Your Time is :${userTime.innerHTML} !`);
     }
 }
-
 
 // function to compare two cards //
 const compareCards = () => {
@@ -62,7 +57,6 @@ const compareCards = () => {
     }
 }
 
-
 // targeting and add click event to turn cards //
 const cardReveal = ({ target }) => {
 
@@ -80,10 +74,7 @@ const cardReveal = ({ target }) => {
 
         compareCards();
     }
-
-
 }
-
 
 // function to add array imgs //
 function addCard(animal) {
@@ -106,7 +97,6 @@ function addCard(animal) {
     card.setAttribute('data-animals', animal);
 }
 
-
 // part of the code used as the basis of https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort //
 // function to load the game //
 function loadGame() {
@@ -118,7 +108,7 @@ function loadGame() {
     });
 }
 
-
+// function to start time in the game //
 const startClock = () => {
 
   this.checkTime =  setInterval(() => {
@@ -127,10 +117,10 @@ userTime.innerHTML = liveTime + 1;
     },1000);
 }
 
+// browser loads the objects //
 window.onload = () => {
     const getName = localStorage.getItem('name');
     userName.innerHTML = getName;
     startClock();
     loadGame();
-    
 }

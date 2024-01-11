@@ -41,9 +41,6 @@ header {
 
 }
 
-
-
-
 .times a {
     text-decoration: none;
     color: white;
@@ -74,7 +71,7 @@ header {
     background-color: black;
     cursor: pointer;
 
-    /* part of the code used as the basis of https://www.w3schools.com/cssref/css3_pr_transform-style.php */
+/* part of the code used as the basis of https://www.w3schools.com/cssref/css3_pr_transform-style.php */
     transform-style: preserve-3d;
     transition: all 500ms ease;
 }
@@ -109,7 +106,6 @@ header {
 .disabled {
     opacity: 0.7;
 }
-
 
 @media screen and (max-width: 700px) {
 
