@@ -106,12 +106,14 @@ The website is crafted for seamless operation, ensuring users can effortlessly a
 
 # Functionality
 ### Login Page
-![Captura de tela 2024-01-05 161027](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/6c598edf-35d1-4c4f-a032-4846e6ca8689)
-![Captura de tela 2024-01-05 161232](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/30eca327-b2ef-455a-b910-2fe19d6b9245)
+
+![Captura de tela 2024-01-11 142654](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/98ef0373-386e-4cb7-ab47-fab3986e20cb)
+![Captura de tela 2024-01-11 142403](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/a811db86-4355-4490-89ff-1f687dcae5ee)
 
 ### Game Page 
 
-![Captura de tela 2024-01-05 160931](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/26d97ba2-f6de-47f0-b7fc-72eb9f6b94fc)
+![Captura de tela 2024-01-11 142600](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/c7bfa715-4b9a-4477-860c-88b69673be84)
+
 
 # Usability
 
