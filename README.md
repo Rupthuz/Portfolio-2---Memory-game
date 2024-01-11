@@ -127,3 +127,13 @@ The website is crafted for seamless operation, ensuring users can effortlessly a
 # Compatibility
 
 - The website has been meticulously optimized to render correctly across a spectrum of browsers and screen sizes. Rigorous compatibility testing was conducted on Chrome, Firefox, Safari, and Edge, ensuring a consistent and reliable performance across these platforms.
+
+# Credits
+All images on the website are from Pexels, under a free license agreement.
+### The code implementation drew upon the following research avenues, encompassing solely their respective scopes and incorporating modifications deemed conducive to the project.
+- https://www.w3schools.com/cssref/css3_pr_transform-style.php.
+- https://stackoverflow.com/questions/45119321/rotate-an-image-180-degrees-in-every-click-css-animation
+- https://www.w3schools.com/cssref/css3_pr_transform-style.php
+https://www.w3schools.com/jsref/met_document_createelement.asp
+https://dev.to/javascriptacademy/creating-a-memory-card-game-with-html-css-and-javascript-57g1
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
