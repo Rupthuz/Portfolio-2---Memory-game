@@ -109,6 +109,13 @@ The website is crafted for seamless operation, ensuring users can effortlessly a
 
 
 # Functionality
+
+### No errors were found when passing through the official Jshint validator
+- There are 11 functions in this file.
+- Function with the largest signature take 1 arguments, while the median is 0.
+- Largest function has 12 statements in it, while the median is 4.
+- The most complex function has a cyclomatic complexity value of 4 while the median is 1.
+
 ### Login Page
 
 ![Captura de tela 2024-01-11 142654](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/98ef0373-386e-4cb7-ab47-fab3986e20cb)
