@@ -1,5 +1,6 @@
 ![Desktop - 3 (1)](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/c8e3788f-314a-480c-ab36-b31170d2a7f6)
 
+link to the live page - (Here) https://rupthuz.github.io/Portfolio-2---Memory-game/
 
 # Languages Used
 **CSS3 <br />
@@ -46,6 +47,8 @@ Continuously train my memory capacity to enhance my daily logical reasoning.
 
 # Features
 
+The website comprises two pages: the login page, where you can read the game rules, create your username, and start the game, and the game page, where you can actually begin playing the memory game. On this page, you can view your player name and also check your timer.
+
 ## Login Page
 Subsequent to the display of the website logo, the login page affords users the capability to establish their player name, concurrently presenting an opportunity to gain a comprehensive understanding of the game rules.
 
@@ -70,8 +73,7 @@ Exploration is underway for the introduction of more difficult levels within the
 ![Wireframe - 1 (1)](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/9b0eb6f8-876a-4918-b4b7-0bf819d3e383)
 
 # Typography
-'https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap
-'Kanit'
+The website utilizes a singular font, specifically Kanit from Google Fonts, maintaining a uniform and cohesive typographic style.
 
 # Deployment
 
@@ -106,8 +108,22 @@ To deploy the page on GitHub Pages from its corresponding repository, the follow
 The website is crafted for seamless operation, ensuring users can effortlessly accomplish their objectives. Chrome development tools were employed to identify and rectify any issues that arose during the development phase. Performance testing was systematically conducted, incorporating both manual assessments and automated methods.
 
 
+### I know that the playability test was successful because when two identical cards are clicked, they are flipped over and removed from the game.
+![Captura de tela 2024-01-13 065448](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/6f2964c9-2d5c-44f1-a6ea-5887c4f452eb)
+
+### I know that the game completion functionality is working because when all the cards are flipped, a message is displayed informing the player of their victory, along with details such as the elapsed time.
+![Captura de tela 2024-01-13 074610](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/b5abe0c7-eb78-487f-be0f-6dab5830a1d7)
+### A message indicating that the game has ended.
+![Captura de tela 2024-01-13 065541](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/a2564e90-d618-4350-aa23-a5e809a3deda)
 
 # Functionality
+
+### No errors were found when passing through the official Jshint validator
+- There are 11 functions in this file.
+- Function with the largest signature take 1 arguments, while the median is 0.
+- Largest function has 12 statements in it, while the median is 4.
+- The most complex function has a cyclomatic complexity value of 4 while the median is 1.
+
 ### Login Page
 
 ![Captura de tela 2024-01-11 142654](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/98ef0373-386e-4cb7-ab47-fab3986e20cb)
@@ -126,13 +142,26 @@ The website is crafted for seamless operation, ensuring users can effortlessly a
 ![Captura de tela 2024-01-09 164335](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/dc0d878e-9416-4db3-911e-f96906358253)
 ![Captura de tela 2024-01-09 164427](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/111ea491-60d3-4fa2-836d-a2d10614aeda)
 
+# BUGS
+### Some bugs were noticed during the development and will be addressed in future implementations.
+
+- It is currently possible to set an empty string as the username by using only the space key.
+- This bug will be fixed in future implementations, preventing the use of an empty string for the username.
+![Captura de tela 2024-01-13 081430](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/847f6263-088d-48d0-9c84-478330dcb978)
+
+- It is currently possible to use only numbers as the username.
+- This issue will also be addressed in a future update, following the same approach as the previous bug fix.
+![Captura de tela 2024-01-13 081444](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/55011947-4165-45a5-a878-3b33bce7b41a)
 
 # Compatibility
 
 - The website has been meticulously optimized to render correctly across a spectrum of browsers and screen sizes. Rigorous compatibility testing was conducted on Chrome, Firefox, Safari, and Edge, ensuring a consistent and reliable performance across these platforms.
 
+![Desktop - 3 (2)](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/35e3f9de-b3a5-4a85-bce6-9ab3f6cd7e55)
+![Desktop - 4](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/23a180a6-702f-4749-87ae-fad540fac6f0)
+
 # Credits
-All images on the website are from Pexels, under a free license agreement.
+All the images featured on the website are sourced from Pexels under a free license agreement, and the favicon is obtained from freepik.
 The code implementation drew upon the following research avenues, encompassing solely their respective scopes and incorporating modifications deemed conducive to the project.
 - Project LoveMaths by (CODE INSTITUTE)
 - https://www.w3schools.com/cssref/css3_pr_transform-style.php.
@@ -141,3 +170,10 @@ The code implementation drew upon the following research avenues, encompassing s
 - https://www.w3schools.com/jsref/met_document_createelement.asp
 - https://dev.to/javascriptacademy/creating-a-memory-card-game-with-html-css-and-javascript-57g1
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
+
+
+# Acknowledgements
+
+I am grateful for my wife's patience as I allocate significant time to coding.
+
+Special thanks to my mentor, Daniel Hamilton, for consistently providing valuable feedback.
