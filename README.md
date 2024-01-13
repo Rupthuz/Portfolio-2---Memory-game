@@ -142,3 +142,10 @@ The code implementation drew upon the following research avenues, encompassing s
 - https://www.w3schools.com/jsref/met_document_createelement.asp
 - https://dev.to/javascriptacademy/creating-a-memory-card-game-with-html-css-and-javascript-57g1
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
+
+
+# Acknowledgements
+
+I am grateful for my wife's patience as I allocate significant time to coding.
+
+Special thanks to my mentor, Daniel Hamilton, for consistently providing valuable feedback.
