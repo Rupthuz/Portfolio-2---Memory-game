@@ -146,6 +146,10 @@ The website is crafted for seamless operation, ensuring users can effortlessly a
 
 - The website has been meticulously optimized to render correctly across a spectrum of browsers and screen sizes. Rigorous compatibility testing was conducted on Chrome, Firefox, Safari, and Edge, ensuring a consistent and reliable performance across these platforms.
 
+![Desktop - 3 (2)](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/35e3f9de-b3a5-4a85-bce6-9ab3f6cd7e55)
+![Desktop - 4](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/23a180a6-702f-4749-87ae-fad540fac6f0)
+
+
 # Credits
 All the images featured on the website are sourced from Pexels under a free license agreement, and the favicon is obtained from freepik.
 The code implementation drew upon the following research avenues, encompassing solely their respective scopes and incorporating modifications deemed conducive to the project.
