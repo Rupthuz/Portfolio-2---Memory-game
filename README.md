@@ -1,5 +1,6 @@
 ![Desktop - 3 (1)](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/c8e3788f-314a-480c-ab36-b31170d2a7f6)
 
+link to the live page - (Here) https://rupthuz.github.io/Portfolio-2---Memory-game/
 
 # Languages Used
 **CSS3 <br />
