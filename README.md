@@ -107,6 +107,13 @@ To deploy the page on GitHub Pages from its corresponding repository, the follow
 The website is crafted for seamless operation, ensuring users can effortlessly accomplish their objectives. Chrome development tools were employed to identify and rectify any issues that arose during the development phase. Performance testing was systematically conducted, incorporating both manual assessments and automated methods.
 
 
+### I know that the playability test was successful because when two identical cards are clicked, they are flipped over and removed from the game.
+![Captura de tela 2024-01-13 065448](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/6f2964c9-2d5c-44f1-a6ea-5887c4f452eb)
+
+### I know that the game completion functionality is working because when all the cards are flipped, a message is displayed informing the player of their victory, along with details such as the elapsed time.
+![Captura de tela 2024-01-13 074610](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/b5abe0c7-eb78-487f-be0f-6dab5830a1d7)
+### A message indicating that the game has ended.
+![Captura de tela 2024-01-13 065541](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/a2564e90-d618-4350-aa23-a5e809a3deda)
 
 # Functionality
 
