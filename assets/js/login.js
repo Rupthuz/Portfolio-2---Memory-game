@@ -4,12 +4,12 @@ const form = document.querySelector(".login_page");
 
 // function to validate input //
 function inputValidator(event) {
- if(event.target.value.length > 2) {
-    button.removeAttribute('disabled');
- } else {
-    button.setAttribute('disabled', '');
- }
-}
+   if(event.target.value.trim().length > 2) {
+      button.removeAttribute('disabled');
+   } else {
+      button.setAttribute('disabled', '');
+   }
+  }
 
 // part of the code used as the basis of https://www.w3schools.com/jsref/prop_win_localstorage.asp //
 function submitValidator(event) {
