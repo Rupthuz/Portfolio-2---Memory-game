@@ -141,6 +141,14 @@ The website is crafted for seamless operation, ensuring users can effortlessly a
 ![Captura de tela 2024-01-09 164335](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/dc0d878e-9416-4db3-911e-f96906358253)
 ![Captura de tela 2024-01-09 164427](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/111ea491-60d3-4fa2-836d-a2d10614aeda)
 
+# BUGS
+### Some bugs were noticed during the development and will be addressed in future implementations.
+
+- It is currently possible to set an empty string as the username by using only the space key. This bug will be fixed in future implementations, preventing the use of an empty string for the username.
+- ![Captura de tela 2024-01-13 081430](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/847f6263-088d-48d0-9c84-478330dcb978)
+
+- It is currently possible to use only numbers as the username. This issue will also be addressed in a future update, following the same approach as the previous bug fix.
+![Captura de tela 2024-01-13 081444](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/55011947-4165-45a5-a878-3b33bce7b41a)
 
 # Compatibility
 
@@ -148,7 +156,6 @@ The website is crafted for seamless operation, ensuring users can effortlessly a
 
 ![Desktop - 3 (2)](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/35e3f9de-b3a5-4a85-bce6-9ab3f6cd7e55)
 ![Desktop - 4](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/23a180a6-702f-4749-87ae-fad540fac6f0)
-
 
 # Credits
 All the images featured on the website are sourced from Pexels under a free license agreement, and the favicon is obtained from freepik.
