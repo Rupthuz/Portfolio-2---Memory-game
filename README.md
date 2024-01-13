@@ -133,7 +133,7 @@ The website is crafted for seamless operation, ensuring users can effortlessly a
 - The website has been meticulously optimized to render correctly across a spectrum of browsers and screen sizes. Rigorous compatibility testing was conducted on Chrome, Firefox, Safari, and Edge, ensuring a consistent and reliable performance across these platforms.
 
 # Credits
-All images on the website are from Pexels, under a free license agreement.
+All the images featured on the website are sourced from Pexels under a free license agreement, and the favicon is obtained from freepik.
 The code implementation drew upon the following research avenues, encompassing solely their respective scopes and incorporating modifications deemed conducive to the project.
 - Project LoveMaths by (CODE INSTITUTE)
 - https://www.w3schools.com/cssref/css3_pr_transform-style.php.
