@@ -46,6 +46,8 @@ Continuously train my memory capacity to enhance my daily logical reasoning.
 
 # Features
 
+The website comprises two pages: the login page, where you can read the game rules, create your username, and start the game, and the game page, where you can actually begin playing the memory game. On this page, you can view your player name and also check your timer.
+
 ## Login Page
 Subsequent to the display of the website logo, the login page affords users the capability to establish their player name, concurrently presenting an opportunity to gain a comprehensive understanding of the game rules.
 
@@ -70,8 +72,7 @@ Exploration is underway for the introduction of more difficult levels within the
 ![Wireframe - 1 (1)](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/9b0eb6f8-876a-4918-b4b7-0bf819d3e383)
 
 # Typography
-'https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap
-'Kanit'
+The website utilizes a singular font, specifically Kanit from Google Fonts, maintaining a uniform and cohesive typographic style.
 
 # Deployment
 
