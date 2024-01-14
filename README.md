@@ -107,7 +107,7 @@ To deploy the page on GitHub Pages from its corresponding repository, the follow
 # Testing
 The website is crafted for seamless operation, ensuring users can effortlessly accomplish their objectives. Chrome development tools were employed to identify and rectify any issues that arose during the development phase. Performance testing was systematically conducted, incorporating both manual assessments and automated methods.
 
-
+# User Testing
 ### I know that the playability test was successful because when two identical cards are clicked, they are flipped over and removed from the game.
 ![Captura de tela 2024-01-13 065448](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/6f2964c9-2d5c-44f1-a6ea-5887c4f452eb)
 
