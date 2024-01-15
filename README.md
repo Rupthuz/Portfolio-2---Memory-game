@@ -1,25 +1,27 @@
-<!--ts-->
-   * [User stories](#Languages-Used)
-   * [User Experience](#User-Experience)
-   * [Design](#Design)
-   * [Features](#Features)
-   * [Future Implementations](#Future-Implementations)
-   * [Color Scheme](#Color-Scheme)
-   * [Typography](#Typography)
-   * [Deployment](#Deployment)
-   * [Run locally](#Run-locally)
-   * [Usability](#Usability)
-   * [Testing](#Testing)
-     * [User Testing](#User-Testing)
-   * [BUGS](#BUGS)
-   * [Compatibility](#Compatibility)
-   * [Credits](#Credits)
-<!--te-->
+
 
 
 ![Desktop - 3 (1)](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/c8e3788f-314a-480c-ab36-b31170d2a7f6)
 
 link to the live page - (Here) https://rupthuz.github.io/Portfolio-2---Memory-game/
+
+<!--ts-->
+   * [User stories](#Languages-Used)
+     * [User Experience](#User-Experience)
+   * [Design](#Design)
+     * [Features](#Features)
+   * [Future Implementations](#Future-Implementations)
+   * [Color Scheme](#Color-Scheme)
+   * [Typography](#Typography)
+   * [Deployment](#Deployment)
+   * [Run locally](#Run-locally)
+     * [Usability](#Usability)
+     * [Testing](#Testing)
+     * [User Testing](#User-Testing)
+     * [BUGS](#BUGS)
+   * [Compatibility](#Compatibility)
+   * [Credits](#Credits)
+<!--te-->
 
 # Languages Used
 **CSS3 <br />
