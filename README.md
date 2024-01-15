@@ -1,15 +1,19 @@
 <!--ts-->
-   * [User stories](#User-Experience)
-   * [Desing](#Design)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
+   * [User stories](#Languages-Used)
+   * [User Experience](#User-Experience)
+   * [Design](#Design)
+   * [Features](#Features)
+   * [Future Implementations](#Future-Implementations)
+   * [Color Scheme](#Color-Scheme)
+   * [Typography](#Typography)
+   * [Deployment](#Deployment)
+   * [Run locally](#Run-locally)
+   * [Usability](#Usability)
+   * [Testing](#Testing)
+     * [User Testing](#User-Testing)
+   * [BUGS](#BUGS)
+   * [Compatibility](#Compatibility)
+   * [Credits](#Credits)
 <!--te-->
 
 
@@ -23,7 +27,7 @@ HTML5 <br />
 JavaScript <br />**
 
 
-# User Experience (UX)
+# User Experience
 
 ### Ideal Players for this Memory Game Community
 Memory Improvement Seekers, Daily Cognitive Development Enthusiasts, and those Passionate about Card Games unite in our community!
@@ -74,7 +78,7 @@ The game page comprises a total of 20 cards, each strategically adorned with ima
 
 ![Captura de tela 2024-01-09 164826](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/f1a37a64-6560-48a1-813a-9bfd2c620b85)
 
-# Future Implementations:
+# Future Implementations
 The ongoing enhancement of the website, encompassing the incorporation of additional pages and the refinement of responsiveness, will require additional time and expertise.
 
 - [ ] Creation of a Player Ranking:
