@@ -1,6 +1,27 @@
+
+
+
 ![Desktop - 3 (1)](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/c8e3788f-314a-480c-ab36-b31170d2a7f6)
 
-link to the live page - (Here) https://rupthuz.github.io/Portfolio-2---Memory-game/
+link to the live page - https://rupthuz.github.io/Portfolio-2---Memory-game/
+
+<!--ts-->
+   * [User stories](#Languages-Used)
+     * [User Experience](#User-Experience)
+   * [Design](#Design)
+     * [Features](#Features)
+   * [Future Implementations](#Future-Implementations)
+   * [Color Scheme](#Color-Scheme)
+   * [Typography](#Typography)
+   * [Deployment](#Deployment)
+   * [Run locally](#Run-locally)
+     * [Usability](#Usability)
+     * [Testing](#Testing)
+     * [User Testing](#User-Testing)
+     * [BUGS](#BUGS)
+   * [Compatibility](#Compatibility)
+   * [Credits](#Credits)
+<!--te-->
 
 # Languages Used
 **CSS3 <br />
@@ -8,7 +29,7 @@ HTML5 <br />
 JavaScript <br />**
 
 
-# User Experience (UX)
+# User Experience
 
 ### Ideal Players for this Memory Game Community
 Memory Improvement Seekers, Daily Cognitive Development Enthusiasts, and those Passionate about Card Games unite in our community!
@@ -59,7 +80,7 @@ The game page comprises a total of 20 cards, each strategically adorned with ima
 
 ![Captura de tela 2024-01-09 164826](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/f1a37a64-6560-48a1-813a-9bfd2c620b85)
 
-# Future Implementations:
+# Future Implementations
 The ongoing enhancement of the website, encompassing the incorporation of additional pages and the refinement of responsiveness, will require additional time and expertise.
 
 - [ ] Creation of a Player Ranking:
@@ -75,39 +96,12 @@ Exploration is underway for the introduction of more difficult levels within the
 # Typography
 The website utilizes a singular font, specifically Kanit from Google Fonts, maintaining a uniform and cohesive typographic style.
 
-# Deployment
 
-The website is currently hosted on GitHub Pages and is deployed directly from the master branch. Automatic updates to the deployed site are triggered with each new commit to the main branch. It is crucial to name the landing page as index.html for proper deployment on GitHub Pages.
-
-To deploy the page on GitHub Pages from its corresponding repository, the following steps were undertaken:
-
-- Login or Sign Up to GitHub.
-- Navigate to the project repository.
-- Access Settings from the top menu.
-- Select "Pages" from the left-hand navigation panel.
-- In the "Source" section, opt for the branch to deploy (Main for newer repositories, Master for older ones).
-- Choose the deployment folder, typically "/root".
-- Click "Save" and patiently await the completion of the deployment process.
-- The URL will be displayed above the "Source" section.
-
-# Run locally
-### Fork:
-
-- Login or Sign Up to GitHub.
-- Open the project repository.
-- Click the Fork button in the top right corner.
-
-### Clone:
-- Login or Sign Up to GitHub.
-- Open the project repository.
-- Click on the "Code" button, choose your preferred cloning method (HTTPS, SSH, or GitHub CLI), and copy the provided link.
-- Open your preferred code editor's terminal and navigate to the desired location for the cloned directory.
-- Type 'git clone' in the terminal, paste the link from step 3, and press enter.
 
 # Testing
 The website is crafted for seamless operation, ensuring users can effortlessly accomplish their objectives. Chrome development tools were employed to identify and rectify any issues that arose during the development phase. Performance testing was systematically conducted, incorporating both manual assessments and automated methods.
 
-
+# User Testing
 ### I know that the playability test was successful because when two identical cards are clicked, they are flipped over and removed from the game.
 ![Captura de tela 2024-01-13 065448](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/6f2964c9-2d5c-44f1-a6ea-5887c4f452eb)
 
@@ -145,10 +139,6 @@ The website is crafted for seamless operation, ensuring users can effortlessly a
 # BUGS
 ### Some bugs were noticed during the development and will be addressed in future implementations.
 
-- It is currently possible to set an empty string as the username by using only the space key.
-- This bug will be fixed in future implementations, preventing the use of an empty string for the username.
-![Captura de tela 2024-01-13 081430](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/847f6263-088d-48d0-9c84-478330dcb978)
-
 - It is currently possible to use only numbers as the username.
 - This issue will also be addressed in a future update, following the same approach as the previous bug fix.
 ![Captura de tela 2024-01-13 081444](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/55011947-4165-45a5-a878-3b33bce7b41a)
@@ -159,6 +149,35 @@ The website is crafted for seamless operation, ensuring users can effortlessly a
 
 ![Desktop - 3 (2)](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/35e3f9de-b3a5-4a85-bce6-9ab3f6cd7e55)
 ![Desktop - 4](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/23a180a6-702f-4749-87ae-fad540fac6f0)
+
+# Deployment
+
+The website is currently hosted on GitHub Pages and is deployed directly from the master branch. Automatic updates to the deployed site are triggered with each new commit to the main branch. It is crucial to name the landing page as index.html for proper deployment on GitHub Pages.
+
+To deploy the page on GitHub Pages from its corresponding repository, the following steps were undertaken:
+
+- Login or Sign Up to GitHub.
+- Navigate to the project repository.
+- Access Settings from the top menu.
+- Select "Pages" from the left-hand navigation panel.
+- In the "Source" section, opt for the branch to deploy (Main for newer repositories, Master for older ones).
+- Choose the deployment folder, typically "/root".
+- Click "Save" and patiently await the completion of the deployment process.
+- The URL will be displayed above the "Source" section.
+
+# Run locally
+### Fork:
+
+- Login or Sign Up to GitHub.
+- Open the project repository.
+- Click the Fork button in the top right corner.
+
+### Clone:
+- Login or Sign Up to GitHub.
+- Open the project repository.
+- Click on the "Code" button, choose your preferred cloning method (HTTPS, SSH, or GitHub CLI), and copy the provided link.
+- Open your preferred code editor's terminal and navigate to the desired location for the cloned directory.
+- Type 'git clone' in the terminal, paste the link from step 3, and press enter.
 
 # Credits
 All the images featured on the website are sourced from Pexels under a free license agreement, and the favicon is obtained from freepik.
