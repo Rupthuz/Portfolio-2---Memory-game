@@ -139,6 +139,7 @@ The website is crafted for seamless operation, ensuring users can effortlessly a
 # BUGS
 ### Some bugs were noticed during the development and will be addressed in future implementations.
 
+- During the development, a bug was observed where, at times during the game loading period, it is possible to see through the cards for a brief moment. This bug will be addressed in future implementations.
 - It is currently possible to use only numbers as the username.
 - This issue will also be addressed in a future update, following the same approach as the previous bug fix.
 ![Captura de tela 2024-01-13 081444](https://github.com/Rupthuz/Portfolio-2---Memory-game/assets/74190717/55011947-4165-45a5-a878-3b33bce7b41a)
